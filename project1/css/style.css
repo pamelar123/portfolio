@@ -1,0 +1,591 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+header{
+    background-color: #e2ede8;
+}
+
+.main-header{
+   
+    background-color: #b8ccc3;
+    width: 111%;
+    position: absolute;
+    
+}
+.left{
+    float: left;
+    padding-top: 13px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.right{
+    float: right;
+    padding-top: 24px;
+    
+}
+.right ul li{
+    display: inline;
+    padding: 10px 15px 5px 15px;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+}
+/* .rigt-back{
+    background-color: #b8ccc3;
+    
+} */
+
+.right a{
+    text-decoration: none;
+    color: #494f4e;
+}
+.logo{
+    width: 39px;
+    height: 47px;
+}
+.bg-img{
+    width: 100%;
+    height: 400px;
+    
+}
+
+.bg-img{
+    background-image:url(../images/background1.png);
+    min-height: 927px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+
+  /* Needed to position the navbar */
+  position: relative;
+  overflow-x: hidden;
+  
+}
+.container {
+    position: absolute;
+    margin: 20px;
+    width: auto;
+  }
+
+.services{
+    background: #99d4c8 ;
+    padding: 7px;
+}
+.home-text{
+    padding-top: 144px;
+}
+.text1{
+    font-family: 'Tilt Neon', cursive;
+    color: #6c9894;
+    padding-left: 944px;
+    margin-top: 125px;
+}
+.text2{
+    font-family: 'Tilt Neon', cursive;
+    color: #6c9894;
+    padding-left: 852px;
+    margin-top: 37px;
+    width: 101%;
+}
+.btn-primary {
+    border-width: medium;
+    border-radius: 9%!important;
+    text-transform: uppercase;
+    font-size: 1rem!important;
+    padding: 0.6rem 1.2rem!important;
+    color: white!important;
+    background-color: #1ebba3!important;
+    border-color: #d9e9e7!important;
+    margin-left: 996px;
+    margin-top: 27px;
+}
+/* choose-classs */
+.choose-class{
+    background-image: url(../images/background2.png);
+    min-height: 977px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  
+    /* Needed to position the navbar */
+    position: relative;
+    overflow: hidden;
+    
+    
+}
+.choose-class1{
+    position: absolute;
+    margin-top: 88px;
+    padding-left: 565px;
+    font-family: 'Tilt Neon', cursive;
+    color: white;
+}
+.choose-class2{
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 167px;
+    padding-left: 481px;
+    color: white;
+    width: 69%;
+
+}
+.choose-header{
+    text-align: center;
+}
+.new-class{
+    position: absolute;
+    margin-top: 738px;
+    padding-left: 155px;
+    font-family: 'Tilt Neon', cursive;
+    color: white;
+}
+.new-class1{
+    position: absolute;
+    margin-top: 795px;
+    padding-left: 127px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    width: 25%;
+}
+.new-class2{
+    position: absolute;
+    margin-top: 738px;
+    padding-left: 107px;
+    font-family: 'Tilt Neon', cursive;
+    color: white;
+}
+.new-class3{
+    position: absolute;
+    margin-top: 795px;
+    padding-left: 83px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    width: 25%;
+}
+.new-class4{
+    position: absolute;
+    margin-top: 738px;
+    padding-left: 92px;
+    font-family: 'Tilt Neon', cursive;
+    color: white;
+}
+.new-class5{
+    position: absolute;
+    margin-top: 795px;
+    padding-left: 67px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    width: 25%;
+}
+/* our-stats */
+.our-stats{
+    background-image: url(../images/background3.png);
+    min-height: 927px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  
+    /* Needed to position the navbar */
+    position: relative;
+}
+.stats-text{
+    position: absolute;
+    margin-top: 69px;
+    padding-left: 671px;
+    font-family: 'Tilt Neon', cursive;
+    color: #6c9894;
+}
+.stats-text1{
+    position: absolute;
+    margin-top: 171px;
+    padding-left: 523px;
+    font-family: 'Montserrat', sans-serif;
+    color: #6c9894;
+    width: 70%;
+}
+.row-offer{
+    padding-top: 376px;
+}
+.circle1{
+    position: absolute;
+    border: 6px solid #6c9894;
+    border-radius: 259px;
+    padding: 89px 21px 75px;
+    
+    margin-left: 155px;
+    margin-right: 170px;
+    margin-bottom: 54px;
+    
+  
+  }
+.customer{
+    padding-left: 86px;
+    font-family: 'Montserrat', sans-serif;
+    color: #6c9894;
+}
+.customer-text{
+    width: 90%;
+    font-family: 'Montserrat', sans-serif;
+    color: #6c9894;
+    padding-left: 29px;
+
+}
+.circle2{
+    position: absolute;
+    border: 6px solid #6c9894;
+    border-radius: 280px;
+    padding: 113px 23px 75px;
+    
+    margin-left: 88px;
+    margin-right: 154px;
+    margin-bottom: 54px;
+
+}
+.customer2{
+    padding-left: 95px;
+    
+    font-family: 'Montserrat', sans-serif;
+    color: #6c9894;
+}
+.outlet-text{
+    width: 90%;
+    font-family: 'Montserrat', sans-serif;
+    color: #6c9894;
+    padding-left: 29px; 
+}
+.circle3{
+    position: absolute;
+    border: 6px solid #6c9894;
+    border-radius: 280px;
+    padding: 108px 115px 75px;
+    
+    margin-left: 88px;
+    margin-right: 154px;
+    margin-bottom: 54px;
+}
+.country{
+    margin-left: 11px;
+    
+    font-family: 'Montserrat', sans-serif;
+    color: #6c9894;
+}
+.country-text{
+    width: 268%;
+    font-family: 'Montserrat', sans-serif;
+    color: #6c9894;
+    margin-left: -45px;
+}
+/* best-instructor */
+.best-instructor{
+    background-image: url(../images/background4.png);
+    min-height: 927px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  
+    /* Needed to position the navbar */
+    position: relative;
+}
+.instruction{
+    position: absolute;
+    margin-top: 205px;
+    margin-left: 62px;
+}
+.best-text{
+    font-family: 'Tilt Neon', cursive;
+    color: white;
+    margin-bottom: 2px;
+    font-size: 3rem;
+}
+.best-text2{
+    font-family: 'Tilt Neon', cursive;
+    color: white;
+    font-size: 3rem;
+}
+.best-text1{
+    width: 45%;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin-top:  31px;
+}
+.btn-light{
+    border-width: medium;
+    text-transform: uppercase;
+    font-size: 1rem!important;
+    padding: 0.6rem 3.2rem!important;
+    color:#6c9894!important;
+    background-color: white!important;
+    border-color: #d9e9e7!important;
+    margin-left: 9px;
+    margin-top: 27px;
+}
+/* new-experience */
+.new-experience{
+    background-image: url(../images/background5.png);
+    min-height: 927px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  
+    /* Needed to position the navbar */
+    position: relative;
+}
+.experience{
+    position: absolute;
+    margin-top: 308px;
+    margin-left: 964px;
+}
+.new-text{
+    font-family: 'Tilt Neon', cursive;
+    color:#6c9894;
+    margin-bottom: 2px;
+    font-size: 3rem;
+}
+.new-text2{
+    font-family: 'Tilt Neon', cursive;
+    color:#6c9894;
+    font-size: 3rem; 
+}
+.new-text1{
+    font-family: 'Montserrat', sans-serif;
+    color:#6c9894 ;
+    margin-top:  31px;
+    width: 80%;
+}
+.button-more{
+    border-width: medium;
+    text-transform: uppercase;
+    font-size: 1rem!important;
+    padding: 0.6rem 3.2rem!important;
+    color:white!important;
+    background-color:#6c9894!important;
+    border-color: #d9e9e7!important;
+    margin-left: 9px;
+    margin-top: 27px;
+}
+/* pricing */
+.pricing{
+    background-color: #6c9894;
+    height: 689px;
+}
+/* .heading-class{
+    font-family: 'Tilt Neon', cursive;
+    color: white;
+    padding-top: 95px;
+    padding-left: 678px;
+}
+.pricing-text{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    width: 35%;
+    padding-left: 42px;
+} */
+.heading-pricing{
+   padding-top: 100px;
+   padding-left: 678px;
+   font-family: 'Tilt Neon', cursive;
+   color: white;
+}
+.heading-pricing1{
+    width: 70%;
+    padding-top: 20px;
+    padding-left: 538px;
+    font-family: 'Tilt Neon', cursive;
+    color: white;
+}
+.card-section{
+    margin-top: 54px;
+    margin-left: 105px;
+    margin-right: 20px;
+    padding-left: 18px;
+}
+.card-title{
+    font-family: 'Tilt Neon', cursive;
+    color: #6c9894!important;
+    font-size: 1.5rem;
+    padding-left: 22px;
+}
+.price{
+    padding-left: 54px;
+    font-family: 'Tilt Neon', cursive;
+    color: #6c9894!important;
+    font-size: 1.5rem;
+    margin-top: 5px;
+}
+.icon{
+    width: 37%;
+    margin-left: 58px;
+}
+.card-text{
+    padding-left: 1px;
+    width: 105%;
+    font-family: 'Tilt Neon', cursive;
+    color: #6c9894!important;
+    margin-top: 18px;
+}
+.button-register{
+    border-width: medium;
+    text-transform: uppercase;
+    font-size: 1rem!important;
+    padding: 0.6rem 3.2rem!important;
+    color:white!important;
+    background-color:#6c9894!important;
+    border-color: #d9e9e7!important;
+    margin-left: 0px;
+    margin-top: 27px;
+}
+.card-section1{
+    margin-top: 48px;
+    margin-left: 94px;
+    margin-right: 20px;
+    padding-left: 18px;
+}
+.card-section2{
+    margin-top: 48px;
+    margin-left: 40px;
+    margin-right: 20px;
+    padding-left: 18px;
+}
+/* trainer-section */
+.trainer-section{
+    background-image: url(../images/background6.png);
+    min-height: 927px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  
+    /* Needed to position the navbar */
+    position: relative;
+}
+.trainer-text{
+    font-family: 'Tilt Neon', cursive;
+    color: #6c9894!important;
+    margin-top: 560px;
+    width: 75%;
+    padding-left: 356px;
+}
+.trainer-devanda{
+    font-family: 'Tilt Neon', cursive;
+    color: #6c9894!important;
+    margin-top: 34px;
+
+}
+/* our-update */
+.update-section{
+    background-color: #6c9894;
+    height: 641px;
+    position: relative;
+}
+.row-updte{
+    padding-top: 162px;
+}
+.dont-miss{
+    font-family: 'Tilt Neon', cursive;
+    color: white;
+}
+.dolor-text{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    width: 65%;
+    padding-left: 533px;
+    margin-top: 40px;
+}
+.input-group .form-control{
+    height: 50px;
+    background: #ffffff;
+    border-color: transparent;
+    border-radius: 20px 0 0 20px;
+    margin-left: 434px;
+    font-family: 'Montserrat', sans-serif;
+    color: #96c5c1;
+    
+}
+.update-section .btn{
+    min-height: 50px;
+    margin-right: 418px;
+    border-radius: 0 20px 20px 0!important;
+    background-color: #f4f9f4;
+    font-family: 'Montserrat', sans-serif;
+    color: #1ebba3;
+}
+.input-group{
+    padding-top: 54px;
+}
+/* footer section */
+.yoga-footer{
+    background-color: #f4f9f4;
+    height: 548px;
+}
+.footer-text{
+    font-family: 'Tilt Neon', cursive;
+    color: #1ebba3;
+    margin-top: 150px;
+    padding-left: 60px;
+    font-size: 1.5rem;
+}
+.footer-para{
+    width: 55%;
+    margin-top: 20px;
+    padding-left: 60px;
+    font-family: 'Montserrat', sans-serif;
+    color: #1ebba3;
+    font-size: 1rem;
+}
+.about{
+    font-family: 'Tilt Neon', cursive;
+    color: #1ebba3;
+    margin-top: 150px;
+    padding-left: 0px;
+    margin-left: 0px;
+    font-size: 1.5rem;
+}
+.a-text{
+    font-family: 'Montserrat', sans-serif;
+    color: #1ebba3;
+    margin-top: 18px;
+    text-decoration: none;
+    line-height: 1.9rem;
+}
+.Services{
+    margin-top: 150px;
+    font-family: 'Tilt Neon', cursive;
+    color: #1ebba3;
+    font-size: 1.5rem;
+}
+.b-text{
+    font-family: 'Montserrat', sans-serif;
+    color: #1ebba3;
+    margin-top: 18px;
+    text-decoration: none;
+    line-height: 1.9rem;
+}
+.Follow{
+    margin-top: 150px;
+    font-family: 'Tilt Neon', cursive;
+    color: #1ebba3;
+    font-size: 1.5rem;
+}
+.c-text{
+    font-family: 'Montserrat', sans-serif;
+    color: #1ebba3;
+    margin-top: 18px;
+    text-decoration: none;
+    line-height: 2rem;
+}
+.img{
+    width: 23px;
+}
