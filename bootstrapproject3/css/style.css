@@ -1,0 +1,403 @@
+/* navbar title */
+.title{
+    height: 600px;
+    background-image: url(../images/top-design1.png);
+    background-image: url(../images/top-design2.png);
+    background-size: cover;
+    clip: rect(0,auto,auto,0);;
+}
+h1{
+    font-family: 'Poppins';
+    width: 800!important;
+    font-size: 3rem!important;
+    padding: 6px;
+    color: #242f51;
+}
+h6{
+    font-family: 'Poppins';
+    padding: 5px;
+    width: 400;
+    color: #242f51 ;
+
+}
+.navbar{
+    padding: 2.3rem 0 4.5rem 0!important;
+    /* margin: 72px 215px 72px 215px; */
+}
+.nav-item{
+    font-family: 'Poppins';
+    width: 400;
+    padding: 0 10px;
+
+}
+.phone{
+   width: 80%;
+   transform: rotate(5deg);
+   max-width: 295px;
+   max-height: 745px;
+
+}
+
+
+.btn-text{
+    color: blue;
+    padding: 20px;
+}
+
+.row-custom{
+    margin-left: 200px;
+    
+}
+
+/* Trusted Companies */
+.content{
+    padding: 50px;
+
+}
+.companies-img{
+    margin: 0 27px!important; 
+    
+    
+}
+/* app feature */
+.phone-image2{
+    width: 90%;
+    padding: 20px;
+    margin: 0 10px;
+}
+
+.container{
+    padding: 25px;
+    
+}
+.row-container{
+    margin-left: 2px;
+    margin-top: 121px;
+
+}
+.features{
+    font-family: 'Poppins';
+    width: 600!important;
+    font-size: 2.5rem!important;
+    padding: 20px;
+    color: #242f51;
+}
+.product{
+    font-family: 'Poppins';
+    padding: 20px;
+}
+.performance{
+    font-family: 'Poppins';
+    padding-left: 102px;
+    padding-top: 37px;
+    color:#f55767;
+}
+/* jackpot section */
+.row-jackpot{
+    margin-left: 2px;
+    margin-top: 121px;
+
+}
+.jackpots-content{
+    font-family: 'Poppins';
+    width: 800;
+    font-size: 2.5rem;
+    color: #242f51;
+    padding-left: 91px;
+
+
+}
+.border-smart {
+    border-width: 5px;
+}
+.mobile-content{
+    margin-top: 30px;
+}
+/*  key features */
+.row-features{
+    padding-left: 155px;
+    margin-top: 120px;
+    
+}
+.row-content{
+    margin-top: 50px;
+    padding-left: 106px;
+    padding-right: 121px;
+}
+.code-content{
+    font-family: 'Poppins';
+    width: 600;
+    color: #242f51;
+    margin-top: 172px ;
+}
+.facebook-content{
+    margin-top: 20px ;
+}
+.app-content{
+    font-family: 'Poppins';
+    width: 600;
+    color: #242f51;
+    margin-top: 69px ;
+}
+.mobile-content{
+    margin-top: 20px;
+}
+.content-one{
+    color: red;
+}
+.content-two{
+    color: blue;
+}
+.content-three{
+    color: green;
+}
+/* app icon  */
+.row-icon{
+    margin-top: 50px;
+    padding-left: 408px;
+    padding-right: 210px;
+}
+.row-effect{
+    padding-left: 400px ;
+}
+.row-test{
+    
+    margin-top: 50px;
+    padding-left: 342px;
+    padding-right: 252px;
+}
+
+.feature-text{
+    width: 40%;
+    font-family: 'Poppins';
+    padding-left: 115px;
+    margin-top: 87px;
+
+}
+.channel-text{
+    width: 53%;
+    padding-left:115px ;
+}
+/* Unlimate features */
+.row-develop{
+    width: 65%;
+    padding-left: 115px;
+    margin-top: 50px;
+}
+.row-home{
+    width: 62%;
+    padding-left: 115px;
+    margin-top: 10px;
+}
+.row-planning{
+    width: 50%;
+}
+.planning-img{
+   padding-left: 728px;
+   margin-top: -497px;
+  
+
+}
+.btn{
+    padding: 10px 50px;
+    
+}
+
+.charges{
+   width: 66%;
+   font-family: 'Poppins';
+   padding-left: 509px;
+   color: #242f51;
+    
+}
+.mobile-charges{
+    width: 74%;
+    padding-left:423px ;
+    margin-top: 51px;
+}
+.button-mobile{
+    margin-top: 80px;
+}
+/* card section */
+.business-class{
+    margin-top: 14px;
+    padding-left: 47px;
+}
+.teams{
+    margin-top: -9px;
+    padding-left: 23px;
+}
+.card-section{
+    width: 50%;
+   margin-top: 48px;
+   margin-left: 413px;
+   padding-left: 30px;
+}
+.month{
+    font-family: 'Poppins'; 
+    font-size: 2.5rem;
+    color: #242f51;
+    padding-left: 20px;
+    margin-left: 23px;
+}
+.card-text{
+    line-height: 2.5rem;
+    padding-left: 29px;
+    font-family: 'Poppins'; 
+ 
+}
+.button-blog{
+    padding-left: 57px;
+    margin-left: -1px;
+}
+.card-section2{
+    width: 50%;
+    margin-top: 48px;
+    margin-right: 200px;
+}
+.button-start{
+    padding-left: 31px;
+}
+/* client section */
+.client-photo{
+    margin-top: 115px;
+}
+.client-heading{
+    margin-top: 115px;
+    width: 68%;
+    margin-right: 166PX;
+    padding-left: 257px;
+    font-family: 'Poppins'; 
+    color: #242f51;
+    font-size: 2rem;
+}
+.facebook-heading{
+    width: 68%;
+    margin-right: 179PX;
+    padding-left: 253px;
+    margin-top: 27px;
+}
+.body {
+    font-size: 5px;
+  }
+.user-friendly{
+    margin-right: 179PX;
+    padding-left: 253px;
+    margin-top: 27px;
+}
+.user-survival{
+    width: 77%;
+    margin-right: 179PX;
+    padding-left: 253px;
+    margin-top: 27px;
+}
+.final-client{
+    padding-left: 253px;
+    margin-top: 27px;
+}
+.client-zoltan{
+    padding-left: 370px;
+    margin-top: -66px;
+    color: #242f51;
+    font-family: 'Poppins';
+}
+.client-ceo{
+    padding-left: 370px;
+    margin-top: -7px;
+    font-family: 'Poppins'; 
+}
+/* frequently section */
+.frequently-text{
+    color: #242f51;
+    font-family: 'Poppins';
+    margin-top: 188px;
+}
+.frequently-information{
+    width: 75%;
+    padding-left: 389px;
+    margin-top: 44px;
+
+}
+/* Accordion section */
+.bg-emergency{
+    width: 66%;
+    margin-left: 275px;
+}
+.contact-riders{
+   padding-top: 11px;
+   padding-left: 22px;
+   color: #242f51;
+
+}
+.fa-system{
+    width: 66%;
+    margin-left: 892px;
+    margin-top: 10px;
+    color: black;
+}
+.fa-system1{
+    margin-left: 558px;
+}
+.fa-system2{
+    margin-left: 641px;
+}
+.fa-system3{
+    margin-left: 622px;
+}
+.icon{
+    float: right;
+    margin-top: -20px;
+    cursor: pointer;
+}
+/* download app section  */
+.download-heading{
+    padding-left: 162px;
+    color: #242f51;
+    font-family: 'Poppins';
+    margin-top: 139px;
+}
+.transform-heading{
+    width: 111%;
+    padding-left: 162px;
+    font-family: 'Poppins';
+    margin-top: 10px;
+}
+.g-play{
+    width: 20%;
+    margin-left: 163px;
+    margin-top: 39px;
+}
+.apple-img{
+    width: 20%;
+    margin-left: 15px;
+    margin-top: 39px;
+}
+.vector-img{
+    width: 100%;
+    margin-top: 110px;
+}
+
+.bottom-container{
+    background-color: #09142e;
+    margin: 0;
+    padding: 53px 0 32px;
+}
+.bottom-logo{
+    margin-left: -17px;
+    margin-top: 56px;
+}
+.footer-link{
+    text-decoration: none;
+    font-family: 'Poppins';
+    color: white;
+    padding: 14px;
+    margin-top: 10px;
+
+}
+.footer-img{
+    margin-top: 19px;
+    size: 10px;
+}
+.copyright-text{
+    margin-top: 175px;
+}
